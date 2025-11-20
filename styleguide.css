@@ -15,7 +15,7 @@ header{ margin: -25px;
 
 }
 
-.topnav a{ margin: 10px;
+.topnav a{ margin: 10px; text-decoration: none;
   float: left;
   color: white;
   text-align: center;
