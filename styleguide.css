@@ -3,7 +3,7 @@ header{ margin: -25px;
     font-family: Proxima Nova
 ; font-size: 20pt;
     text-align: center;
-       padding: 0pt;
+       padding-bottom: 20pt;
        position: sticky;
        top: 0; 
 }
