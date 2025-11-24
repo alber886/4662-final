@@ -8,7 +8,7 @@ header{ margin: -25px;
        top: 0; 
 }
 
-.topnav{ 
+.topnav{ overflow: hidden;
   background-color: RoyalBlue;
     padding-top: 15px ;
     margin: -25px; color: white;
