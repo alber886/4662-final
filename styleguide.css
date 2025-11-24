@@ -6,12 +6,13 @@ header{
        position: fixed;
        width: 100%; 
     margin: 0; 
+    padding: 0;
    
 }
 
 .topnav{ overflow: hidden;
   background-color: RoyalBlue;
-    padding-top: 20px ;
+    padding-top: 30px ;
     margin: -25px; color: white;
 
 }
