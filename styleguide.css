@@ -5,16 +5,13 @@ header{ margin: 0px;
     font-family: Proxima Nova
 ; font-size: 20pt;
     text-align: center;
-       padding-top:20px;
-       padding-bottom:20px;
+       padding-top:10px;
+       padding-bottom:10px;
        width: 100%;
 }
 
 .topnav{ overflow: hidden;
-        position: fixed;
   background-color: RoyalBlue;
-    padding-left: 0px;
-    padding-right: 0px;
     padding-top: 15px ;
     width:100%; color: white;
         margin: 0px;
